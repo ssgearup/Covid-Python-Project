@@ -1,3 +1,2 @@
 # Covid-Python-Project
-Covid analysis was done on many countries with relating to happiness index. Data was analyzed based on various parameters like maximum infection per country, visualizing graphs for per day cases.
-Happiness data was later integrated and checked whether who all countries are less prone to virus. And the inference was made by seeing data is more developed countries are more prone to virus.
+In this project, I have acquired the dataset from Coursera. I loaded it in jupyter notebook and performed various pandas manipualtion to cover the insights from the data. The Covid data set is joined with the happiness index dataset to pull the various insights like which country people are living happily in the tough times. A general comparison was done with the help of plotting.
